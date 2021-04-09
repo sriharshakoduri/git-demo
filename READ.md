@@ -7,4 +7,5 @@ This is the first file in this repo.
 Did i do it or i think i'm doing it?
 
 #Web Contents
-1.Index.html
+1. Index.html
+2. Add all at once
